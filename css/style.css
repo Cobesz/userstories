@@ -61,7 +61,28 @@
 
 .status_post
 {
+    min-height: 300px;
     border: 1px solid lightgray;
     padding: 5px;
     margin-bottom: 25px;
+    
 }
+
+
+.add-container {
+    position: fixed;
+    bottom: 5vh;
+    right: 5vw;
+}
+
+.glyphicon-plus-sign {
+    color: #2980b9;
+    font-size: 75px;
+}
+
+.glyphicon-plus-sign:hover {
+    color: rgba(41,128,185,0.9);
+    background: transparent;
+}
+
+

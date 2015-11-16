@@ -10,9 +10,19 @@
 	margin-top: 4vh;
 }
 
-.glyphicon-plus-sign {
-	color: #2980b9;
-	position: absolute;
-	bottom: 0;	
-	right: 0;
+
+.add-container {
+	position: fixed;
+	bottom: 5vh;
+	right: 5vw;
+}
+
+.glyphicon-chevron-left {
+    color: #2980b9;
+    font-size: 75px;
+}
+
+.glyphicon-chevron-left:hover {
+    color: rgba(41,128,185,0.9);
+    background: transparent;
 }
