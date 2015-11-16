@@ -1,0 +1,28 @@
+.box {
+	border: 1px solid #000;		
+	text-align: center;
+	padding: 2vh;
+	width: 100%;
+}
+
+.glyphicon {
+	font-size: 75px;
+	margin-top: 4vh;
+}
+
+
+.add-container {
+	position: fixed;
+	bottom: 5vh;
+	right: 5vw;
+}
+
+.glyphicon-chevron-left {
+    color: #2980b9;
+    font-size: 75px;
+}
+
+.glyphicon-chevron-left:hover {
+    color: rgba(41,128,185,0.9);
+    background: transparent;
+}
