@@ -1,7 +1,5 @@
 .box {
-	/*margin: 2em;*/
-	border: 1px solid #000;	
-	/*min-height: 10em;*/
+	border: 1px solid #000;		
 	text-align: center;
 	padding: 2vh;
 	width: 100%;
@@ -10,4 +8,11 @@
 .glyphicon {
 	font-size: 75px;
 	margin-top: 4vh;
+}
+
+.glyphicon-plus-sign {
+	color: #2980b9;
+	position: absolute;
+	bottom: 0;	
+	right: 0;
 }
